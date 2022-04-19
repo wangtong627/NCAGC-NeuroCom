@@ -1,0 +1,13 @@
+{
+    "learning_rate": 0.0001,
+    "num_hidden": 1024,
+    "activation": "prelu",
+    "num_epochs": 150,
+    "cluster_num": 6,
+    "instance_number": 3327,
+    "weight_decay": 0.00001,
+    "base_model": "GATConv",
+    "num_layers": 2,
+    "tau": 1.0,
+    "tau_knbrs": 1.0
+}
