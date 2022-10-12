@@ -1,4 +1,2 @@
 # NCAGC: A Neighborhood Contrast Framework for Attributed Graph Clustering
-This is the code for NCAGC. To be continued.
-
-After the paper is accepted, we will add more information and improve the code repository!
+This is the code for NCAGC. We will add more information and improve the code repository after the paper is accepted!
